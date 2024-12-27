@@ -17,6 +17,10 @@ After transitioning from law to web development, I now focus on **monetizing my 
 
 - **[AI Projects and Notebooks](https://drive.google.com/drive/folders/1lhBl23-cVK4slEwI4n_VfWj6TJN4xlfc)**
 
+## 🙏 Special Thanks
+
+A big thank you to [freeCodeCamp](https://www.freecodecamp.org/), whose tutorials and resources played a huge role in my journey from law to coding.
+
 ## 📫 How to reach me:
 
 - **Portfolio**: [mahen-mahindaratne.online](https://mahen-mahindaratne.online/)
