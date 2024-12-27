@@ -21,4 +21,4 @@ After transitioning from law to web development, I now focus on **monetizing my 
 
 - **Portfolio**: [mahen-mahindaratne.online](https://mahen-mahindaratne.online/)
 - **Email**: mmahindaratne88@gmail.com
-- **Blogger**: [Classical Studies Blog](https://mahen-mahindaratne-classical-studies.blogspot.com)
+- **Blogger**: [Selected Topics in Classical Studies](https://mahen-mahindaratne-classical-studies.blogspot.com)
