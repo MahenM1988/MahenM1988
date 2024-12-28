@@ -26,3 +26,4 @@ A big thank you to [freeCodeCamp](https://www.freecodecamp.org/), whose tutorial
 - **Portfolio**: [mahen-mahindaratne.online](https://mahen-mahindaratne.online/)
 - **Email**: mmahindaratne88@gmail.com
 - **Blogger**: [Selected Topics in Classical Studies](https://mahen-mahindaratne-classical-studies.blogspot.com)
+- **Blogger**: [Selected Topics in Legal Studies](https://mahen-mahindaratne-law.blogspot.com)
