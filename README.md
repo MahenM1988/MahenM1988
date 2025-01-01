@@ -24,7 +24,8 @@ A big thank you to [freeCodeCamp](https://www.freecodecamp.org/), whose tutorial
 ## 📫 How to reach me:
 
 - **Portfolio**: [mahen-mahindaratne.online](https://mahen-mahindaratne.online/)
+- **GitHub.IO**: [mahenm1988.github.io](https://mahenm1988.github.io/)
+- **Blogger**: [mahen-mahindaratne-classical-studies.blogspot.com](https://mahen-mahindaratne-classical-studies.blogspot.com)
+- **Blogger**: [[Selected Topics in Legal Studies](https://mahen-mahindaratne-law.blogspot.com)](https://mahen-mahindaratne-law.blogspot.com)
+- **YouTube**: [youtube.com/@MahenMahindaratne](https://www.youtube.com/@MahenMahindaratne)
 - **Email**: mmahindaratne88@gmail.com
-- **Blogger**: [Selected Topics in Classical Studies](https://mahen-mahindaratne-classical-studies.blogspot.com)
-- **Blogger**: [Selected Topics in Legal Studies](https://mahen-mahindaratne-law.blogspot.com)
-- **YouTube**: https://www.youtube.com/@MahenMahindaratne
