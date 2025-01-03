@@ -7,9 +7,9 @@ After transitioning from law to web development, I now focus on **monetizing my 
 ## 💻 Skills & Technologies
 
 - **Languages**: Python, JavaScript, HTML/CSS
-- **Frameworks & Libraries**: Flask, React
+- **Frameworks & Libraries**: Django, Flask, React
 - **Tools & Platforms**: Redis, Docker, VS Code, Google Colab
-- **Web Development**: MERN-stack applications, API development, Frontend/Backend
+- **Web Development**: MERN-stack applications, Django-based applications, API development, Frontend/Backend
 - **Scientific Computing**: Machine learning with Python, TensorFlow
 - **Hobbies**: Continuously enriching my inner world, with the hope of sharing it with others soon
 
