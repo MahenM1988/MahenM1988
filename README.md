@@ -1,31 +1,19 @@
-# Hi! I'm Mahen Mahindaratne 👋
+<div style="background-color: #002b36; color: #839496; padding: 20px; border-radius: 10px;">
+  <h1 style="color: #93a1a1;">My name is Mahen Mahindaratne</h1>
+  <p>and I am a qualified lawyer from Colombo, Sri Lanka. I hold an LLB from the University of London and an MBA from the Australian Institute of Business. My career journey has led me from law into the world of technology, where I am now pursuing coding both as a hobby and a professional skill.</p>
 
-**Lawyer turned Coder** | **Passionate about Scientific Computing** | **Explorer of New Knowledge**
+  <p>I began my coding journey with Scientific Computing using Python, then transitioned to Web Development, where I gained hands-on experience in building full-stack web applications. I specialize in designing and deploying both static web applications (using JavaScript, HTML, and CSS) and dynamic web applications that require server-side and client-side logic.</p>
 
-After transitioning from law to web development, I now focus on **monetizing my coding skills**. However, my true passion lies in **Scientific Computing with Python**. Inspired by spy tech, I've even started working on my own version of Konboot (stay tuned!). One day, I hope to clone a server full of data using that magical USB (if only I had the right hardware...).
+  <p>My core area of expertise is as a MERN Stack Developer, where I am proficient in MongoDB, Express, React.js, and Node.js. I have successfully coded several projects using the MERN stack, ensuring high performance, scalability, and robust security. Additionally, I possess practical experience with Django, SQLite, MySQL, and PostgreSQL, making me well-versed in both NoSQL and relational databases.</p>
 
-## 💻 Skills & Technologies
+  <p>I use VS Code as my primary code editor and rely on GitHub for version control and project management. Many of my applications are deployed as Docker images on GitHub, demonstrating my ability to build and manage containerized applications. I also have experience hosting static websites on GitHub Pages, showcasing my ability to efficiently deploy and manage web content.</p>
 
-- **Languages**: Python, JavaScript, HTML/CSS
-- **Frameworks & Libraries**: Django, Flask, React
-- **Tools & Platforms**: Redis, Docker, VS Code, Google Colab
-- **Web Development**: MERN-stack applications, Django-based applications, API development, Frontend/Backend
-- **Scientific Computing**: Machine learning with Python, TensorFlow
-- **Hobbies**: Continuously enriching my inner world, with the hope of sharing it with others soon
+  <p>For dynamic web applications, I leverage platforms like Render to deploy and scale full-stack applications with ease. Render provides a seamless deployment process for Node.js and other backend technologies, ensuring that my web applications are reliable and scalable. Additionally, I have experience working with CDNs like Cloudflare to optimize website performance and security, ensuring faster load times and protection against DDoS attacks.</p>
 
-## 📂 Google Colab Notebooks on AI
+  <p>I have successfully integrated popular payment gateways like Stripe, PayPal, and Coinbase into several applications, ensuring secure and efficient payment processing for users. I am also proficient in handling payment gateway SDKs, allowing for streamlined payment functionality in custom web solutions.</p>
 
-- **[AI Projects and Notebooks](https://drive.google.com/drive/folders/1lhBl23-cVK4slEwI4n_VfWj6TJN4xlfc)**
-
-## 🙏 Special Thanks
-
-A big thank you to [freeCodeCamp](https://www.freecodecamp.org/), whose tutorials and resources played a huge role in my journey from law to coding.
-
-## 📫 How to reach me:
+  <p>In addition to my technical expertise, I am familiar with domain management through platforms like GoDaddy, where I have set up and configured custom domains, ensuring that web applications are properly branded and easily accessible. I am continuously expanding my skill set to stay current with emerging technologies and best practices in web development. I am confident in my ability to tackle complex challenges and deliver high-quality, scalable solutions.</p>
+</div>
 
 - **Portfolio**: [mahen-mahindaratne.online](https://mahen-mahindaratne.online/)
-- **GitHub.IO**: [mahenm1988.github.io](https://mahenm1988.github.io/)
-- **Blogger**: [mahen-mahindaratne-classical-studies.blogspot.com](https://mahen-mahindaratne-classical-studies.blogspot.com)
-- **Blogger**: [mahen-mahindaratne-law.blogspot.com](https://mahen-mahindaratne-law.blogspot.com)
 - **YouTube**: [youtube.com/@MahenMahindaratne](https://www.youtube.com/@MahenMahindaratne)
-- **Email**: mmahindaratne88@gmail.com
