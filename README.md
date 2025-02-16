@@ -40,4 +40,3 @@ I am continuously expanding my skill set to stay current with emerging technolog
 ---
 
 - **Portfolio**: [mahen-mahindaratne.online](https://mahen-mahindaratne.online/)
-- **YouTube**: [youtube.com/@MahenMahindaratne](https://www.youtube.com/@MahenMahindaratne)
